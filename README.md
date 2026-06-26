@@ -20,7 +20,6 @@ A comprehensive collection of Python concepts and practical implementations.
 - Object-Oriented Programming
 - File Handling
 - Decorators
-- Generators
 - Iterators
 - Practical Implementations
 
